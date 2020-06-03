@@ -1,7 +1,5 @@
 # Rocket_Elevators_Restful_API_Foundation
 
-### Odyssey Week 9 - Consolidation of Achievements
-
 #### How to use Rocket Elevators REST API using Postman:  
 ### URL :https://fathomless-meadow-20996.herokuapp.com/  
 
