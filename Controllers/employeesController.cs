@@ -40,7 +40,6 @@ namespace TodoApi.Controllers
             foreach (var employee in employees)
             {
 
-
                 list_employees.Add(employee);
 
             }
